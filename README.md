@@ -1,4 +1,4 @@
-# Programming Education
+# Education
 
 Summary of Education courses 
 
